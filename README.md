@@ -37,6 +37,8 @@ For any kind of help feel free to ask in my [Telegram Group](http://t.me/linux_r
 #### The Easy Way!
 Must [Fork](https://github.com/AbirHasan2005/Telegram-Leech-Bot/fork) this repo before deploying. And don't upload with your name without proper credit. For any kind of help must ask in my [Telegram Group](http://t.me/linux_repo). <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shouyo237/Telegram-Leech-Bot)
+
 
 #No-Deploy Need Deploy [Fork This Repo](https://github.com/AbirHasan2005/Telegram-Leech-Bot)
 
